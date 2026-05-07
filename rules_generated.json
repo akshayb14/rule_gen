@@ -1,0 +1,1845 @@
+[
+  {
+    "id": "R-301",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options C IF Flange Style = 9",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "C"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange Style"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "9"
+      }
+    ]
+  },
+  {
+    "id": "R-302",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Line Driver = 1",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "1"
+      }
+    ]
+  },
+  {
+    "id": "R-303",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN PPR ≥ BA",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "BA"
+      }
+    ]
+  },
+  {
+    "id": "R-304",
+    "family": "AV4",
+    "attribute": "Wiring Exit",
+    "action": "PREVENT",
+    "summary": "PREVENT Wiring Exit R IF Flange Style = 4",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Wiring Exit"
+      },
+      {
+        "t": "val",
+        "v": "R"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange Style"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "4"
+      }
+    ]
+  },
+  {
+    "id": "R-305",
+    "family": "AV4",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Shaft Size = B",
+    "status": "conflict",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 14",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Shaft Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "B"
+      }
+    ]
+  },
+  {
+    "id": "R-306",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options C IF Flange Style = 2",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "C"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange Style"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "2"
+      }
+    ]
+  },
+  {
+    "id": "R-307",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Line Driver = 6",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "6"
+      }
+    ]
+  },
+  {
+    "id": "R-308",
+    "family": "AV4",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN PPR ≥ BA",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "BA"
+      }
+    ]
+  },
+  {
+    "id": "R-309",
+    "family": "AV4",
+    "attribute": "Wiring Exit",
+    "action": "PREVENT",
+    "summary": "PREVENT Wiring Exit R IF Flange Style = 1",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Wiring Exit"
+      },
+      {
+        "t": "val",
+        "v": "R"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange Style"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "1"
+      }
+    ]
+  },
+  {
+    "id": "R-310",
+    "family": "AV4",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Shaft Size = A",
+    "status": "conflict",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 14",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Shaft Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "A"
+      }
+    ]
+  },
+  {
+    "id": "R-311",
+    "family": "AV6A",
+    "attribute": "Connector",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector F IF Flange = 1",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector"
+      },
+      {
+        "t": "val",
+        "v": "F"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "1"
+      }
+    ]
+  },
+  {
+    "id": "R-312",
+    "family": "AV6A",
+    "attribute": "Connector Exit",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Exit E IF Flange = 4",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Exit"
+      },
+      {
+        "t": "val",
+        "v": "E"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "4"
+      }
+    ]
+  },
+  {
+    "id": "R-313",
+    "family": "AV6A",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Shaft Size = T",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Shaft Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "T"
+      }
+    ]
+  },
+  {
+    "id": "R-314",
+    "family": "AV6M",
+    "attribute": "Connector",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector F IF Flange = 1",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector"
+      },
+      {
+        "t": "val",
+        "v": "F"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "1"
+      }
+    ]
+  },
+  {
+    "id": "R-315",
+    "family": "AV6M",
+    "attribute": "Connector Exit",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Exit E IF Flange = 4",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Exit"
+      },
+      {
+        "t": "val",
+        "v": "E"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Flange"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "4"
+      }
+    ]
+  },
+  {
+    "id": "R-316",
+    "family": "AV6M",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Shaft Size = T",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Shaft Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "T"
+      }
+    ]
+  },
+  {
+    "id": "R-317",
+    "family": "AV850",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Left Output Line Driver = X",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "X"
+      }
+    ]
+  },
+  {
+    "id": "R-318",
+    "family": "AV850",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN Left Output PPR ≥ F",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "F"
+      }
+    ]
+  },
+  {
+    "id": "R-319",
+    "family": "AV850",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Rotor Bore Size = XX",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "XX"
+      }
+    ]
+  },
+  {
+    "id": "R-320",
+    "family": "AV850",
+    "attribute": "Cover Plates",
+    "action": "ALLOW",
+    "summary": "ALLOW Cover Plates X WHEN Rotor Bore Size = CB",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Cover Plates"
+      },
+      {
+        "t": "val",
+        "v": "X"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "CB"
+      }
+    ]
+  },
+  {
+    "id": "R-325",
+    "family": "AV125",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Left Output Line Driver = X",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "X"
+      }
+    ]
+  },
+  {
+    "id": "R-326",
+    "family": "AV125",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN Left Output PPR ≥ F",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "F"
+      }
+    ]
+  },
+  {
+    "id": "R-327",
+    "family": "AV125",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Rotor Bore Size = XX",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "XX"
+      }
+    ]
+  },
+  {
+    "id": "R-328",
+    "family": "AV125",
+    "attribute": "Cover Plates",
+    "action": "ALLOW",
+    "summary": "ALLOW Cover Plates X WHEN Rotor Bore Size = CH",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Cover Plates"
+      },
+      {
+        "t": "val",
+        "v": "X"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "CH"
+      }
+    ]
+  },
+  {
+    "id": "R-352",
+    "family": "HS45",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Line Driver = 8",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "8"
+      }
+    ]
+  },
+  {
+    "id": "R-353",
+    "family": "HS45",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN Left Output PPR ≥ BC",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "BC"
+      }
+    ]
+  },
+  {
+    "id": "R-354",
+    "family": "HS45",
+    "attribute": "Channels",
+    "action": "PREVENT",
+    "summary": "PREVENT Channels A IF Line Driver = 9",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Channels"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "9"
+      }
+    ]
+  },
+  {
+    "id": "R-355",
+    "family": "HS4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Line Driver = 6",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "6"
+      }
+    ]
+  },
+  {
+    "id": "R-356",
+    "family": "HS4",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN PPR ≥ BA",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "BA"
+      }
+    ]
+  },
+  {
+    "id": "R-357",
+    "family": "HS4",
+    "attribute": "Channels",
+    "action": "PREVENT",
+    "summary": "PREVENT Channels A IF Line Driver = 9",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Channels"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "9"
+      }
+    ]
+  },
+  {
+    "id": "R-358",
+    "family": "HS4",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options A IF Housing Size = 5",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Housing Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "5"
+      }
+    ]
+  },
+  {
+    "id": "R-362",
+    "family": "XR850",
+    "attribute": "Connector Options",
+    "action": "PREVENT",
+    "summary": "PREVENT Connector Options B IF Left Output Line Driver = X",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 10",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "B"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "X"
+      }
+    ]
+  },
+  {
+    "id": "R-363",
+    "family": "XR850",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "ALLOW Connector Options A WHEN Left Output PPR ≥ F",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 11",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "A"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Left Output PPR"
+      },
+      {
+        "t": "op",
+        "v": "≥"
+      },
+      {
+        "t": "val",
+        "v": "F"
+      }
+    ]
+  },
+  {
+    "id": "R-364",
+    "family": "XR850",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "PREVENT Modifications 000 IF Rotor Bore Size = CB",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 12",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "000"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "CB"
+      }
+    ]
+  },
+  {
+    "id": "R-365",
+    "family": "XR850",
+    "attribute": "Cover Plates",
+    "action": "ALLOW",
+    "summary": "ALLOW Cover Plates X WHEN Rotor Bore Size = CA",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 13",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Cover Plates"
+      },
+      {
+        "t": "val",
+        "v": "X"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Rotor Bore Size"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "CA"
+      }
+    ]
+  },
+  {
+    "id": "R-301",
+    "family": "XR650",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 (1ft built-in cable) IF Connector = A (10-pin MS w/o plug)",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 22",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "A"
+      }
+    ]
+  },
+  {
+    "id": "R-302",
+    "family": "XR650",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 (1ft built-in cable) IF Connector = B (10-pin MS w/ plug)",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 22",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "B"
+      }
+    ]
+  },
+  {
+    "id": "R-303",
+    "family": "XR650",
+    "attribute": "Wiring Exit",
+    "action": "PREVENT",
+    "summary": "Prevent Wiring R (Radial side exit) IF Seals = K (IP69K stainless)",
+    "status": "conflict",
+    "review": "approved",
+    "edited": "Apr 23",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Wiring Exit"
+      },
+      {
+        "t": "val",
+        "v": "R"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Seals"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "K"
+      }
+    ]
+  },
+  {
+    "id": "R-304",
+    "family": "XR650",
+    "attribute": "Connector Options",
+    "action": "ALLOW",
+    "summary": "Allow Connector G (Industrial EPIC w/LED alarm) only WHEN Line Driver = 7 (ATEX Zone 2)",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 21",
+    "chips": [
+      {
+        "t": "act",
+        "v": "ALLOW"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "val",
+        "v": "G"
+      },
+      {
+        "t": "op",
+        "v": "WHEN"
+      },
+      {
+        "t": "attr",
+        "v": "Line Driver"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "7"
+      }
+    ]
+  },
+  {
+    "id": "R-305",
+    "family": "XR650",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 704 (Super Magnetic Shielding) IF Connector = J (7-pin MS w/ plug)",
+    "status": "draft",
+    "review": "draft",
+    "edited": "Apr 24",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "704"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "J"
+      }
+    ]
+  },
+  {
+    "id": "R-401",
+    "family": "XR485",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 (Special 1’/0.3m cable built-in) IF Connector = A",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 19",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "A"
+      }
+    ]
+  },
+  {
+    "id": "R-402",
+    "family": "XR485",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 (Special built-in cable) IF Connector = B (10-pin MS w/ plug)",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 19",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "B"
+      }
+    ]
+  },
+  {
+    "id": "R-403",
+    "family": "XR485",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 (1ft built-in cable) IF Connector = G (Industrial EPIC w/LED alarm)",
+    "status": "active",
+    "review": "approved",
+    "reviewer": "Brian W.",
+    "edited": "Apr 20",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "G"
+      }
+    ]
+  },
+  {
+    "id": "R-404",
+    "family": "XR485",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 IF Connector = J (7-pin MS w/ plug, A,B,Z standard phasing)",
+    "status": "conflict",
+    "review": "approved",
+    "edited": "Apr 21",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "J"
+      }
+    ]
+  },
+  {
+    "id": "R-405",
+    "family": "XR485",
+    "attribute": "Modifications",
+    "action": "PREVENT",
+    "summary": "Prevent Mod 901 IF Connector = K (7-pin MS w/ plug, A,A/,B,B/ standard phasing)",
+    "status": "pending",
+    "review": "pending",
+    "submitter": "Eric D.",
+    "reviewer": "Brian W.",
+    "edited": "Apr 24",
+    "chips": [
+      {
+        "t": "act",
+        "v": "PREVENT"
+      },
+      {
+        "t": "attr",
+        "v": "Modifications"
+      },
+      {
+        "t": "val",
+        "v": "901"
+      },
+      {
+        "t": "op",
+        "v": "IF"
+      },
+      {
+        "t": "attr",
+        "v": "Connector Options"
+      },
+      {
+        "t": "op",
+        "v": "="
+      },
+      {
+        "t": "val",
+        "v": "K"
+      }
+    ]
+  }
+]

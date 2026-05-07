@@ -1,0 +1,3146 @@
+{
+  "RUSH AV4": {
+    "Line Driver": [
+      {
+        "c": "1",
+        "d": "5-30V In/Out Line Driver (IC-HD2)"
+      },
+      {
+        "c": "4",
+        "d": "5-30V In, 5V Out Regulated Line Driver (IC-HD2)"
+      },
+      {
+        "c": "6",
+        "d": "5-30V In/Out Line Driver (7272)"
+      },
+      {
+        "c": "9",
+        "d": "5-30V In, 5V Out Regulated Line Driver (7272)"
+      }
+    ],
+    "Shaft Size": [
+      {
+        "c": "B",
+        "d": "0.375 in.OD x 0.625 in. Shaft w/Flat (2.06 in. square flanges only)"
+      },
+      {
+        "c": "F",
+        "d": "0.375 in.OD x 0.875 in. Shaft w/Flat (2.50 & 2.63 in. flanges only)"
+      },
+      {
+        "c": "C",
+        "d": "10mm OD x 20mm Long Shaft with Flat"
+      },
+      {
+        "c": "A",
+        "d": "0.25 in.OD x 0.625 in. Shaft w/Flat (2.06 in. square flanges only)"
+      },
+      {
+        "c": "T",
+        "d": "6mm OD x 10mm Long Shaft without Flat"
+      }
+    ],
+    "Wiring Exit": [
+      {
+        "c": "R",
+        "d": "Radial Side Exit"
+      },
+      {
+        "c": "A",
+        "d": "Axial Side Exit"
+      }
+    ],
+    "Seals": [
+      {
+        "c": "A",
+        "d": "Shaft Seals, IP65, Aluminum Housing"
+      },
+      {
+        "c": "K",
+        "d": "Shaft Seals, IP69K, Stainless Steel Housing"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Signals A, A/, B, B/, Z, Z/ (See mods for other adp. options)"
+      }
+    ],
+    "PPR": [
+      {
+        "c": "BA",
+        "d": "30 PPR"
+      },
+      {
+        "c": "AA",
+        "d": "32 PPR"
+      },
+      {
+        "c": "AF",
+        "d": "60 PPR"
+      },
+      {
+        "c": "AH",
+        "d": "120 PPR"
+      },
+      {
+        "c": "AM",
+        "d": "200 PPR"
+      },
+      {
+        "c": "AL",
+        "d": "240 PPR"
+      },
+      {
+        "c": "AN",
+        "d": "256 PPR"
+      },
+      {
+        "c": "AE",
+        "d": "360 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS No Plug Std/Avtron Phasing (See mods: 7, 12, 10 TW pin adp.)"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS No Plug Reverse Phasing (See mods: 7, 12, 10 TW pin adp.)"
+      },
+      {
+        "c": "C",
+        "d": "10 pin MS w/ Plug Std/Avtron Phasing (See mods: 7, 12, 10 TW pin adp.)"
+      },
+      {
+        "c": "D",
+        "d": "10 pin MS w/ plug Reverse Phasing (See mods: 7, 12, 10 TW pin adp.)"
+      },
+      {
+        "c": "W",
+        "d": "Cable 1m"
+      }
+    ],
+    "Flange Style": [
+      {
+        "c": "4",
+        "d": "2.63 in. Square Flange, 1.25 in. Pilot, 4x 0.22 in. Corner Holes spaced 2.06 in. apart"
+      },
+      {
+        "c": "9",
+        "d": "2.50 in. Round Flange, 1.25 in. Pilot, 3x 10-32 & 8-32 on 1.875 in. BC, 3x 6-32 & 4x 4-40 on 2.00 in. BC"
+      },
+      {
+        "c": "A",
+        "d": "2.06 in. Square Flange, 1.25 in. Pilot, 4x 0.16 in. Corner Holes on 1.75 in. BC"
+      },
+      {
+        "c": "1",
+        "d": "58mm Round Flange, 36mm Pilot, 3x M3 M4 on 48mm BC"
+      },
+      {
+        "c": "7",
+        "d": "42mm Round HD Stainless Flange & Pilot, 4x M4 on 35mm BC"
+      },
+      {
+        "c": "3",
+        "d": "36.5mm Round Flange, 33mm Pilot, 3x M3 on 26mm BC"
+      }
+    ],
+    "Housing Size": [
+      {
+        "c": "3",
+        "d": "36mm"
+      },
+      {
+        "c": "4",
+        "d": "42mm"
+      },
+      {
+        "c": "5",
+        "d": "58mm"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "CJE",
+        "d": "Add 18\" adapter 10 pin MS to 7 pin MS, Single Ended, (A, B, Z only)"
+      },
+      {
+        "c": "C2A",
+        "d": "Add 18\" adapter 10 pin MS to 12 pin M23, All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "CRA",
+        "d": "Add 18\" adapter 10 pin MS to 10 pin Mini Twist Lock, All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "CEE",
+        "d": "Add 18\" adapter 10 pin MS to 6 pin MS, Single Ended, (A, B, Z only)"
+      },
+      {
+        "c": "CEB",
+        "d": "Add 18\" adapter 10 pin MS to 6 pin MS, Differential, No Marker Pulse (A, A/, B, B/ only)"
+      },
+      {
+        "c": "CJB",
+        "d": "Add 18\" adapter 10 pin MS to 7 pin MS, Differential,  No Marker Pulse (A, A/, B, B/ only)"
+      },
+      {
+        "c": "C5E",
+        "d": "Add 18\" adapter 10 pin MS to 5 pin M12, Single Ended, (A, B, Z only)"
+      }
+    ]
+  },
+  "AV4": {
+    "Shaft Size": [
+      {
+        "c": "A",
+        "d": "0.25 in OD x 0.625 in. Shaft w/Flat (2.00 in. & 2.06 in., NEMA 34/42 & PY flanges only)"
+      },
+      {
+        "c": "B",
+        "d": "0.375 in.OD x 0.625 in. Shaft w/Flat (2 in. & 2.06 in. NEMA 34/42 & PY flanges only)"
+      },
+      {
+        "c": "T",
+        "d": "6mm OD x 10mm Long shaft, No Flat"
+      },
+      {
+        "c": "C",
+        "d": "10mm OD x 20mm Long Shaft, w/Flat"
+      },
+      {
+        "c": "R",
+        "d": "10mm OD x 20mm Long Shaft No Flat"
+      },
+      {
+        "c": "E",
+        "d": "0.25 in OD x 0.875 in. Shaft w/Flat (2.50 & 2.63 in flanges only)"
+      },
+      {
+        "c": "F",
+        "d": "0.375 in.OD x 0.875 in. Shaft w/Flat (2.50 & 2.63 in. flanges only)"
+      },
+      {
+        "c": "D",
+        "d": "0.375 in. OD x 1.0 in. Shaft w/Flat (2.63 in. flange only)"
+      }
+    ],
+    "Wiring Exit": [
+      {
+        "c": "R",
+        "d": "Radial Side Exit"
+      },
+      {
+        "c": "A",
+        "d": "Axial End Exit"
+      }
+    ],
+    "Seals": [
+      {
+        "c": "X",
+        "d": "No Shaft Seals, IP54, NOT RECOMMENDED"
+      },
+      {
+        "c": "A",
+        "d": "Shaft Seals, IP65, Aluminum Housing"
+      },
+      {
+        "c": "G",
+        "d": "Shaft Seals, IP67, Aluminum Housing"
+      },
+      {
+        "c": "K",
+        "d": "Shaft Seals, IP69K, Stainless Steel Housing"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Signals A, A/, B, B/, Z, Z/"
+      },
+      {
+        "c": "B",
+        "d": "A, A/ ,B, B/, No Marker Pulse"
+      },
+      {
+        "c": "E",
+        "d": "A, B, Z No Complements"
+      },
+      {
+        "c": "F",
+        "d": "A, B No Complements, No Marker"
+      }
+    ],
+    "PPR": [
+      {
+        "c": "BA",
+        "d": "30 PPR"
+      },
+      {
+        "c": "AA",
+        "d": "32 PPR"
+      },
+      {
+        "c": "AK",
+        "d": "80 PPR"
+      },
+      {
+        "c": "AH",
+        "d": "120 PPR"
+      },
+      {
+        "c": "AM",
+        "d": "200 PPR"
+      },
+      {
+        "c": "AL",
+        "d": "240 PPR"
+      },
+      {
+        "c": "AN",
+        "d": "256 PPR"
+      },
+      {
+        "c": "AE",
+        "d": "360 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style No Plug Avtron Phasing"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style No Plug Reverse Phasing"
+      },
+      {
+        "c": "C",
+        "d": "10 pin MS style with Plug Avtron Phasing"
+      },
+      {
+        "c": "D",
+        "d": "10 pin MS style with plug Reverse Phasing"
+      },
+      {
+        "c": "W",
+        "d": "Cable 1m or special length"
+      },
+      {
+        "c": "E",
+        "d": "6 pin MS style No Plug Avtron Phasing"
+      },
+      {
+        "c": "F",
+        "d": "6 pin MS style No Plug Reverse Phasing"
+      },
+      {
+        "c": "G",
+        "d": "6 pin MS style with Plug Avtron Phasing"
+      }
+    ],
+    "Flange Style": [
+      {
+        "c": "1",
+        "d": "58mm Round Flange, 36mm Pilot, 3x M3 M4 on 48mm BC"
+      },
+      {
+        "c": "2",
+        "d": "58mm Round Flange, 50mm Pilot, 3x M4 on 42mm BC"
+      },
+      {
+        "c": "3",
+        "d": "36.5mm Round Flange, 33mm Pilot, 4x M3 on 26mm BC"
+      },
+      {
+        "c": "4",
+        "d": "2.63 in. Square Flange, 1.25 in. Pilot, 4x 0.22 in. Corner Holes on 2.06 in. Square"
+      },
+      {
+        "c": "5",
+        "d": "2.63 in. Round Flange, 2.50 in. Pilot, 3x 10-32 on 1.875 in. BC & 4x 4-40 on 1.27 in. BC"
+      },
+      {
+        "c": "6",
+        "d": "36.5mm Heavy Duty Round Flange,30mm Pilot, 4x M4 on 24mm BC"
+      },
+      {
+        "c": "7",
+        "d": "42mm Round HD Stainless Flange & Pilot, 4x M4 on 35mm BC"
+      },
+      {
+        "c": "9",
+        "d": "2.50 in. Round Flange, 1.25 in. Pilot, 3x 10-32 & 8-32 on 1.875 in. BC, 3x 6-32 & 4x 4-40 on 2.00 in. BC"
+      }
+    ],
+    "Housing Size": [
+      {
+        "c": "5",
+        "d": "58mm"
+      },
+      {
+        "c": "3",
+        "d": "36mm"
+      },
+      {
+        "c": "4",
+        "d": "42mm"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "905",
+        "d": "5 ft./2.0m Cable Built into Encoder"
+      },
+      {
+        "c": "933",
+        "d": "33 ft/10m Cable Built into Encoder"
+      },
+      {
+        "c": "915",
+        "d": "15 ft./5.0m Cable Built into Encoder"
+      },
+      {
+        "c": "CJE",
+        "d": "Add 18\" adapter 10 pin MS to 7 pin MS, Single Ended, (A, B, Z only)"
+      },
+      {
+        "c": "C2A",
+        "d": "Add 18\" adapter 10 pin MS to 12 pin M23, All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "CRA",
+        "d": "Add 18\" adapter 10 pin MS to 10 pin Mini Twist Lock, All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "CEE",
+        "d": "Add 18\" adapter 10 pin MS to 6 pin MS, Single Ended, (A, B, Z only)"
+      }
+    ],
+    "Line Driver": [
+      {
+        "c": "6",
+        "d": "5-30V In/Out Line Driver (7272)"
+      },
+      {
+        "c": "9",
+        "d": "5-30V In, 5V Out Regulated Line Driver (7272)"
+      },
+      {
+        "c": "2",
+        "d": "5-30V In/Out Open Collector"
+      }
+    ]
+  },
+  "AV6A": {
+    "Communication Bus": [
+      {
+        "c": "D",
+        "d": "DeviceNet (Slave) Communication"
+      },
+      {
+        "c": "C",
+        "d": "CANopen Communication"
+      },
+      {
+        "c": "K",
+        "d": "POWERLINK Communication"
+      },
+      {
+        "c": "L",
+        "d": "Parallel Output"
+      },
+      {
+        "c": "M",
+        "d": "Modbus TCP/IP Communication"
+      },
+      {
+        "c": "N",
+        "d": "Profinet Communication"
+      },
+      {
+        "c": "P",
+        "d": "Profibus DP (slave) Communication"
+      },
+      {
+        "c": "R",
+        "d": "EtherNet/IP Communication"
+      }
+    ],
+    "Flange": [
+      {
+        "c": "4",
+        "d": "2.5 in. Square flange, 1.25 in. male pilot"
+      },
+      {
+        "c": "1",
+        "d": "58mm Flange clamp style, 36mm male pilot, 3X M3, 3X M4 @ 48mm BC"
+      },
+      {
+        "c": "2",
+        "d": "58mm Flange EU servo/synchro, 50mm male pilot, 3X M4 @ 42mm BC"
+      }
+    ],
+    "Shaft Size": [
+      {
+        "c": "T",
+        "d": "6mm x 10mm long Solid Shaft, no flat  (flange #2 only)"
+      },
+      {
+        "c": "C",
+        "d": "10mm x 20mm long Solid Shaft, w/flat (flange #1 or #2 only)"
+      },
+      {
+        "c": "B",
+        "d": "3/8 inch x 5/8 inch long Solid Shaft, w/flat (flange #4 only)"
+      }
+    ],
+    "Turns/bits/MT": [
+      {
+        "c": "X",
+        "d": "0 Turns/0 bits-Single Turn"
+      },
+      {
+        "c": "2",
+        "d": "4096 Turns/12 bits"
+      },
+      {
+        "c": "4",
+        "d": "16384 Turns/14 bits"
+      },
+      {
+        "c": "A",
+        "d": "16 Turns/4 bits"
+      },
+      {
+        "c": "D",
+        "d": "128 Turns/7 bits"
+      },
+      {
+        "c": "E",
+        "d": "256 Turns/8 bits"
+      }
+    ],
+    "CPR/bits Per Turn/ST": [
+      {
+        "c": "0",
+        "d": "1024 Counts per Revolution/10 bits"
+      },
+      {
+        "c": "2",
+        "d": "4096 Counts per Revolution/12 bits"
+      },
+      {
+        "c": "3",
+        "d": "8192 Counts per Revolution/13 bits"
+      },
+      {
+        "c": "6",
+        "d": "65536 Counts per Revolution/16 bits"
+      },
+      {
+        "c": "E",
+        "d": "256 Counts per Revolution/8 bits"
+      },
+      {
+        "c": "F",
+        "d": "512 Counts per Revolution/9 bits"
+      },
+      {
+        "c": "4",
+        "d": "16384 Counts per Revolution/14 bits"
+      }
+    ],
+    "Connector": [
+      {
+        "c": "A",
+        "d": "1xM12/5 pin w/o Plug"
+      },
+      {
+        "c": "C",
+        "d": "3xM12 (4/4/4 pin) w/o Plugs"
+      },
+      {
+        "c": "F",
+        "d": "M23/12 pin w/o Plug"
+      },
+      {
+        "c": "W",
+        "d": "Cable, 1m (or special length)"
+      },
+      {
+        "c": "B",
+        "d": "2xM12/5 pin w/o Plug"
+      },
+      {
+        "c": "D",
+        "d": "2xM12 (4/5 pin) w/o Plugs"
+      },
+      {
+        "c": "E",
+        "d": "1xM12/8 pin w/o Plug"
+      },
+      {
+        "c": "G",
+        "d": "M27/26 pin w/o Plug"
+      }
+    ],
+    "Connector Exit": [
+      {
+        "c": "E",
+        "d": "End/Axial exit"
+      },
+      {
+        "c": "A",
+        "d": "Side/Radial exit"
+      }
+    ],
+    "Output Coding": [
+      {
+        "c": "1",
+        "d": "Binary Bit Coding"
+      },
+      {
+        "c": "2",
+        "d": "Gray Coding"
+      }
+    ],
+    "IP Rating": [
+      {
+        "c": "G",
+        "d": "IP67 Shaft Seals"
+      },
+      {
+        "c": "X",
+        "d": "No Seals, IP54 (not recommended)"
+      },
+      {
+        "c": "A",
+        "d": "IP65 Shaft Seals"
+      },
+      {
+        "c": "S",
+        "d": "IP67 Shaft Seals, stainless housing"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "901",
+        "d": "1 ft. 0.3m Cable Built into Encoder"
+      },
+      {
+        "c": "902",
+        "d": "2 ft. 0.6m Cable Built into Encoder"
+      },
+      {
+        "c": "903",
+        "d": "3 ft. 0.9m Cable Built into Encoder"
+      },
+      {
+        "c": "905",
+        "d": "5 ft. 1.5m Cable Built into Encoder"
+      },
+      {
+        "c": "910",
+        "d": "10 ft. 3m Cable Built into Encoder"
+      },
+      {
+        "c": "915",
+        "d": "15 ft. 4.5m Cable Built into Encoder"
+      },
+      {
+        "c": "920",
+        "d": "20 ft. 6m Cable Built into Encoder"
+      }
+    ]
+  },
+  "AV850": {
+    "Rotor Bore Size": [
+      {
+        "c": "XX",
+        "d": "No Rotor"
+      },
+      {
+        "c": "CB",
+        "d": "0.625 in. Thru-Shaft Cam Screw Mounted Rotor  (Universal)"
+      },
+      {
+        "c": "CA",
+        "d": "0.750 in. Thru-Shaft Cam Screw Mounted Rotor"
+      },
+      {
+        "c": "CC",
+        "d": "0.875 in. Thru-Shaft Cam Screw Mounted Rotor"
+      },
+      {
+        "c": "CE",
+        "d": "1.000 in. Thru-Shaft Cam Screw Mounted Rotor"
+      },
+      {
+        "c": "CF",
+        "d": "1.125 in. Thru-Shaft Cam Screw Mounted Rotor"
+      },
+      {
+        "c": "CH",
+        "d": "1.375 in. Thru-Shaft Cam Screw Mounted Rotor"
+      },
+      {
+        "c": "C8",
+        "d": "1.500 in. Thru-Shaft Cam Screw Mounted Rotor"
+      }
+    ],
+    "Cover Plates": [
+      {
+        "c": "X",
+        "d": "No Cover Plates"
+      },
+      {
+        "c": "B",
+        "d": "Both Inboard and Outboard Covers for Thru-Shaft w/V-Ring Seals"
+      },
+      {
+        "c": "D",
+        "d": "Domed Cover"
+      },
+      {
+        "c": "F",
+        "d": "Flat Outboard Cover"
+      },
+      {
+        "c": "N",
+        "d": "Inboard Seal Plate w/V-Ring Seal, Flat Outboard Cover"
+      },
+      {
+        "c": "T",
+        "d": "Outboard Seal Plate for Thru-Shaft w/V-Ring Seal"
+      }
+    ],
+    "Left Output Line Driver": [
+      {
+        "c": "X",
+        "d": "No Left Output"
+      },
+      {
+        "c": "8",
+        "d": "5-24v in, 5-24v out hi-power standard (HX)"
+      },
+      {
+        "c": "9",
+        "d": "5-24v, 5v fixed out (7272)"
+      },
+      {
+        "c": "6",
+        "d": "5-24v in, 5-24v out (7272)"
+      },
+      {
+        "c": "A",
+        "d": "5-24v in, 5-24v out (7272) - High Performance"
+      },
+      {
+        "c": "B",
+        "d": "5-24v in, 5-24V out (Hx) - High Performance"
+      },
+      {
+        "c": "C",
+        "d": "5-24v in, 5v fixed out (7272) - High Performance"
+      }
+    ],
+    "Left Output PPR": [
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      }
+    ],
+    "Right Output Line Driver": [
+      {
+        "c": "X",
+        "d": "No Right Output"
+      },
+      {
+        "c": "8",
+        "d": "5-24v in, 5-24v out hi-power standard (HX)"
+      },
+      {
+        "c": "9",
+        "d": "5-24V In 5V Out (7272)"
+      },
+      {
+        "c": "6",
+        "d": "5-24v in  5-24v out (7272)"
+      },
+      {
+        "c": "A",
+        "d": "5-24v in, 5-24v out (7272) - High Performance"
+      },
+      {
+        "c": "B",
+        "d": "5-24v in, 5-24V out (Hx) - High Performance"
+      },
+      {
+        "c": "C",
+        "d": "5-24v in, 5v fixed out (7272) - High Performance"
+      }
+    ],
+    "Right Output PPR": [
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "C",
+        "d": "64 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS without Mating Plug"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS with Mating Plug"
+      },
+      {
+        "c": "C",
+        "d": "10 pin MS style with Plug & Flexible Adaptor"
+      },
+      {
+        "c": "E",
+        "d": "M737A Pinout 5 pin MS, without Plug"
+      },
+      {
+        "c": "F",
+        "d": "M737A Pinout 5 pin MS style with Plug"
+      },
+      {
+        "c": "G",
+        "d": "Industrial EPIC Style with plug & Lakeshore Pinout (No alarm contact)"
+      },
+      {
+        "c": "H",
+        "d": "M727A Pinout 5 pin MS, without Plug"
+      },
+      {
+        "c": "J",
+        "d": "M727A Pinout 5 pin MS, with Plug"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": ""
+      },
+      {
+        "c": "003",
+        "d": "K661/C14326 Brushless Converter Package Included"
+      },
+      {
+        "c": "004",
+        "d": "Super Magnetic Shielded Sensor(s)"
+      },
+      {
+        "c": "401",
+        "d": "1270 (Special) Left Output PPR, (Set Left PPR Code = 0)"
+      },
+      {
+        "c": "402",
+        "d": "150 (Special) Left Output PPR, (Set Left PPR Code(s) = 0)"
+      },
+      {
+        "c": "403",
+        "d": "50 (Special) Left Output PPR, (Set Left PPR Code(s) = 0)"
+      },
+      {
+        "c": "404",
+        "d": "16 (Special) Right PPR  (Set Right PPR Code =  0)"
+      },
+      {
+        "c": "405",
+        "d": "16 (Special) Left Output PPR (Set Left  PPR Code = 0)"
+      }
+    ]
+  },
+  "HS35X": {
+    "PPR": [
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "K",
+        "d": "200 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "M",
+        "d": "250 PPR"
+      },
+      {
+        "c": "S",
+        "d": "600 PPR"
+      },
+      {
+        "c": "W",
+        "d": "1000 PPR"
+      },
+      {
+        "c": "Y",
+        "d": "1024 PPR"
+      },
+      {
+        "c": "Z",
+        "d": "1200 PPR"
+      }
+    ],
+    "Line Driver": [
+      {
+        "c": "1",
+        "d": "5-30V In/Out (Hx)"
+      },
+      {
+        "c": "2",
+        "d": "5-30V In/5V Out (Hx)"
+      },
+      {
+        "c": "3",
+        "d": "5V In/5V Out (Hx)"
+      }
+    ],
+    "Hollow Shaft Bore Size": [
+      {
+        "c": "B",
+        "d": "1/2 in. bore via insert"
+      },
+      {
+        "c": "C",
+        "d": "5/8 in. bore via insert"
+      },
+      {
+        "c": "D",
+        "d": "3/4 in. bore via insert"
+      },
+      {
+        "c": "E",
+        "d": "7/8 in. bore via insert"
+      },
+      {
+        "c": "F",
+        "d": "1 in. native bore"
+      },
+      {
+        "c": "U",
+        "d": "1/2 in. thru 7/8 in. bore (Universal USA)"
+      },
+      {
+        "c": "P",
+        "d": "12mm via insert"
+      },
+      {
+        "c": "R",
+        "d": "15mm via insert"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style w/o Plug, Avtron/BEI Phasing"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style w/o Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "C",
+        "d": "10 pin MS style w/ Plug, Avtron/BEI Phasing"
+      },
+      {
+        "c": "D",
+        "d": "10 pin MS style w/ Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "W",
+        "d": "M20 Cord Grip w/ Cable (18 in. or special length)"
+      },
+      {
+        "c": "T",
+        "d": "M12/8 Pin Turck Pinout w/o Plug Avtron Phasing"
+      },
+      {
+        "c": "7",
+        "d": "M12/8 Pin US Pinout w/ Plug Reverse Phasing"
+      },
+      {
+        "c": "U",
+        "d": "M12/8 Pin US Pinout w/o Plug Avtron Phasing"
+      }
+    ],
+    "Mounting": [
+      {
+        "c": "U",
+        "d": "Universal (Thru & End of Shaft)"
+      },
+      {
+        "c": "X",
+        "d": "No Cover"
+      }
+    ],
+    "Protection": [
+      {
+        "c": "0",
+        "d": ""
+      },
+      {
+        "c": "1",
+        "d": "Basket"
+      }
+    ],
+    "Anti-Rotational Tether": [
+      {
+        "c": "X",
+        "d": "No Tether"
+      },
+      {
+        "c": "A",
+        "d": "1/4 in.-20 T-Bolt Fan Cover Tether"
+      },
+      {
+        "c": "B",
+        "d": "5/16 in.-18 T-Bolt Fan Cover Tether"
+      },
+      {
+        "c": "C",
+        "d": "3/8 in.-16 T-Bolt Fan Cover Tether"
+      },
+      {
+        "c": "D",
+        "d": "All T-bolt Fan Cover Tethers"
+      },
+      {
+        "c": "E",
+        "d": "4.5 in. C-Face Tether"
+      },
+      {
+        "c": "F",
+        "d": "8.5 in. C-Face Tether"
+      },
+      {
+        "c": "M",
+        "d": "D and E Tether Kits"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Channels (A, /A, B, /B, Z, /Z)"
+      },
+      {
+        "c": "B",
+        "d": "A, /A, B, /B (complements, no marker)"
+      },
+      {
+        "c": "D",
+        "d": "A, /A (single phase w/ complement, no marker)"
+      },
+      {
+        "c": "E",
+        "d": "A, B, Z (no complements, marker)"
+      },
+      {
+        "c": "F",
+        "d": "A, B (no complements, no marker)"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "901",
+        "d": "1 ft./0.3m Cable Built into Encoder"
+      },
+      {
+        "c": "902",
+        "d": "2 ft./0.6m Cable Built into Encoder"
+      },
+      {
+        "c": "903",
+        "d": "3 ft./0.9m Cable Built into Encoder"
+      },
+      {
+        "c": "905",
+        "d": "5 ft./1.5m Cable Built into Encoder"
+      },
+      {
+        "c": "910",
+        "d": "10 ft./3m Cable Built into Encoder"
+      },
+      {
+        "c": "915",
+        "d": "15 ft./4.5m Cable Built into Encoder"
+      },
+      {
+        "c": "920",
+        "d": "20 ft./6m Cable Built into Encoder"
+      }
+    ],
+    "Shaft Adapter and Tether": [
+      {
+        "c": "402",
+        "d": "150 (Special) Output PPR"
+      }
+    ]
+  },
+  "XR485": {
+    "Foot Mounting ": [
+      {
+        "c": "X",
+        "d": "Standard NEMA 56C Face Mount (No Foot Mount Included)"
+      },
+      {
+        "c": "1",
+        "d": "Standard Bolt Pattern Foot Mount Bracket (Avtron & RIM6200/H56)"
+      },
+      {
+        "c": "2",
+        "d": "BC42/46 Bolt Pattern Foot Mount Bracket (GE Analog Tachogenerator)"
+      }
+    ],
+    "Temperature Rating": [
+      {
+        "c": "C",
+        "d": "-40°C to +80°C"
+      },
+      {
+        "c": "N",
+        "d": "-20°C to +80°C (Standard)"
+      }
+    ],
+    "Shaft Mounting ": [
+      {
+        "c": "S",
+        "d": "Standard Single Ended 5/8 in. x 2 in. Stainless Steel Shaft, with 3/16 in. Key way & Key"
+      },
+      {
+        "c": "D",
+        "d": "Dual 5/8 inch  x 2 inch Stainless Steel Shafts, each with 3/16 in. Key way & Key"
+      }
+    ],
+    "Left Output Line Driver": [
+      {
+        "c": "X",
+        "d": "No Left Output"
+      },
+      {
+        "c": "H",
+        "d": "Level 1 Protection (ATEX/IECEx Zone 1 & 21), 5-7v in, 5v out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "7",
+        "d": "Level 2 Protection, (ATEX/IECEx Zone 2 & 22) 5-24v, 5-24V out"
+      },
+      {
+        "c": "F",
+        "d": "Level 1 Protection, (UL Class I, Div 1, UL/cUL Class I, Zone 0 Listed) 5-7v, 5V out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "G",
+        "d": "Level 2 Protection, (UL Class I, Div 2 Listed) 5-24v, 5-24V out"
+      },
+      {
+        "c": "R",
+        "d": "US CLASS I, DIV 2, ZONE 2, RECOGNIZED, 5-24v in, 5-24v out"
+      }
+    ],
+    "Left Output PPR": [
+      {
+        "c": "X",
+        "d": "No Left Output"
+      },
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "W",
+        "d": "1000 PPR"
+      },
+      {
+        "c": "8",
+        "d": "4800 PPR"
+      },
+      {
+        "c": "9",
+        "d": "5000 PPR"
+      }
+    ],
+    "Right Output Line Driver": [
+      {
+        "c": "X",
+        "d": "No Right Output"
+      },
+      {
+        "c": "H",
+        "d": "Level 1 Protection (ATEX/IECEx Zone 1 & 21), 5-7v in, 5v out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "7",
+        "d": "Level 2 Protection, (ATEX/IECEx Zone 2 & 22) 5-24v, 5-24V out"
+      },
+      {
+        "c": "F",
+        "d": "Level 1 Protection, (UL Class I, Div 1, UL/cUL Class I, Zone 0 Listed) 5-7v, 5V out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "G",
+        "d": " Level 2 Protection, (UL Class I, Div 2 Listed) 5-24v, 5-24V out"
+      },
+      {
+        "c": "R",
+        "d": "US CLASS I, DIV 2, ZONE 2, RECOGNIZED, 5-24v in, 5-24v out"
+      }
+    ],
+    "Right Output PPR": [
+      {
+        "c": "X",
+        "d": "No Right Output"
+      },
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "B",
+        "d": "480 PPR"
+      },
+      {
+        "c": "Q",
+        "d": "500 PPR"
+      },
+      {
+        "c": "R",
+        "d": "512 PPR"
+      },
+      {
+        "c": "S",
+        "d": "600 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style w/o Mating Plug"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style w/Plug"
+      },
+      {
+        "c": "G",
+        "d": "Industrial EPIC Style w/LED alarm"
+      },
+      {
+        "c": "J",
+        "d": "7 pin MS style w/Plug (A, B, Z) (Standard Phasing)"
+      },
+      {
+        "c": "K",
+        "d": "7 pin MS style w/Plug (A, A/, B, B/) (Standard Phasing)"
+      },
+      {
+        "c": "P",
+        "d": "Industrial EPIC Style w/LED and remote alarm contact (level 2 protection only)"
+      },
+      {
+        "c": "R",
+        "d": "Baldor Mini MS style w/Plug"
+      },
+      {
+        "c": "W",
+        "d": "3' Sealed Cable w/Color Coded Leads"
+      },
+      {
+        "c": "4",
+        "d": "Std conduit box, 1/2\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      },
+      {
+        "c": "5",
+        "d": "Std conduit box, 3/4\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      },
+      {
+        "c": "X",
+        "d": "No connector, no sensor (housing only)"
+      },
+      {
+        "c": "6",
+        "d": "Std conduit box, 1\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "901",
+        "d": "Special 1'/0.3m cable length built into sensor"
+      },
+      {
+        "c": "000",
+        "d": "No Special Options"
+      },
+      {
+        "c": "004",
+        "d": "Super Magnetic Shielded Sensor(s)"
+      },
+      {
+        "c": "030",
+        "d": "Special Dual Shaft Modification 6\" on DE end, 4\" on ODE"
+      },
+      {
+        "c": "402",
+        "d": "150 PPR (Special) Left Output (Set Left PPR Code to 0)"
+      },
+      {
+        "c": "403",
+        "d": "50 PPR (Special) Left Output (Set Left PPR Code to  0)"
+      },
+      {
+        "c": "404",
+        "d": "16 PPR (Special) Right Output (Set Right PPR Code to 0)"
+      },
+      {
+        "c": "405",
+        "d": "16 PPR (Special) Left Output  (Set Left PPR Code to 0)"
+      },
+      {
+        "c": "406",
+        "d": "6000 PPR (Special) Left Output (Set Left PPR Code to 0)"
+      },
+      {
+        "c": "407",
+        "d": "2800 PPR (Special) Left Output (Set Left  PPR Code to 0)"
+      },
+      {
+        "c": "408",
+        "d": "1400 (Special) Left Output PPR (Set Left PPR Code to 0)"
+      },
+      {
+        "c": "409",
+        "d": "30 PPR (Special) Left Output (Set Left PPR Code to 0)"
+      },
+      {
+        "c": "704",
+        "d": "Add Super Magnetic Shielding"
+      }
+    ]
+  },
+  "XR650": {
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style w/o Mating Plug"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style w/Plug"
+      },
+      {
+        "c": "G",
+        "d": "Industrial EPIC Style w/LED alarm"
+      },
+      {
+        "c": "J",
+        "d": "7 pin MS style w/Plug (A, B, Z) Standard Phasing"
+      },
+      {
+        "c": "K",
+        "d": "7 pin MS style w/Plug (A, A/, B, B/) Standard Phasing"
+      },
+      {
+        "c": "M",
+        "d": "M23 12 pin Connector w/Plug"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "901",
+        "d": "Special 1'/0.3m cable length built into sensor"
+      },
+      {
+        "c": "704",
+        "d": "Add Super Magnetic Shielding"
+      },
+      {
+        "c": "009",
+        "d": "Super Magnetic Shielded Sensors"
+      },
+      {
+        "c": "X",
+        "d": "No Modifications"
+      }
+    ],
+    "Wiring Exit": [
+      {
+        "c": "R",
+        "d": "Radial Side Exit"
+      },
+      {
+        "c": "A",
+        "d": "Axial Rear Exit"
+      }
+    ],
+    "Seals": [
+      {
+        "c": "K",
+        "d": "IP69K Stainless Seal"
+      },
+      {
+        "c": "S",
+        "d": "Standard IP66 Seal"
+      },
+      {
+        "c": "X",
+        "d": "No Seal"
+      }
+    ],
+    "Line Driver": [
+      {
+        "c": "7",
+        "d": "Level 2 Protection (ATEX/IECEx Zone 2 & 22) 5-24V"
+      },
+      {
+        "c": "F",
+        "d": "Level 1 Protection (UL Class I Div 1) 5-7V"
+      },
+      {
+        "c": "9",
+        "d": "5-24V In, 5V Out (7272)"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "B",
+        "d": "A, A/, B, B/ Only"
+      }
+    ],
+    "Housing Size": [
+      {
+        "c": "1",
+        "d": "Standard Housing"
+      },
+      {
+        "c": "2",
+        "d": "Compact Housing"
+      }
+    ]
+  },
+  "AV125": {
+    "Rotor Bore Size": [
+      {
+        "c": "XX",
+        "d": "No Rotor "
+      },
+      {
+        "c": "CH",
+        "d": "1.375\" Thru-Shaft Rotor, Cam Screw Mount"
+      },
+      {
+        "c": "CJ",
+        "d": "1.625 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CL",
+        "d": "1.875 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CM",
+        "d": "2.000 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CN",
+        "d": "2.125 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CQ",
+        "d": "2.250 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CP",
+        "d": "2.375 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CR",
+        "d": "2.500 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CT",
+        "d": "2.625 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "C2",
+        "d": "2.875 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CV",
+        "d": "3.125 in. Thru-Shaft Rotor"
+      }
+    ],
+    "Cover Plates": [
+      {
+        "c": "X",
+        "d": "No Cover Plates"
+      },
+      {
+        "c": "F",
+        "d": "Flat Outboard Cover"
+      },
+      {
+        "c": "T",
+        "d": "Outboard Seal Plate and V-Ring Seal for Thru-Shaft"
+      },
+      {
+        "c": "0",
+        "d": "Custom Cover Plate, Consult Factory"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style without Mating Plug"
+      },
+      {
+        "c": "E",
+        "d": "M737A Pinout 5 pin MS, without Plug"
+      },
+      {
+        "c": "1",
+        "d": "10 Pin Mini-Epic Style with Plug"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style with Plug"
+      },
+      {
+        "c": "G",
+        "d": "Industrial EPIC Style with Lakeshore Pinout (No alarm contact)"
+      },
+      {
+        "c": "J",
+        "d": "M727A Pinout 5 pin MS, with Plug"
+      },
+      {
+        "c": "K",
+        "d": "Condulet with leads"
+      },
+      {
+        "c": "L",
+        "d": "10 pin MS style with 90° Plug"
+      },
+      {
+        "c": "N",
+        "d": "5 ft. Flex Conduit, Leads Only"
+      },
+      {
+        "c": "P",
+        "d": "Industrial EPIC Style with Plug"
+      },
+      {
+        "c": "Q",
+        "d": "Small EPIC Style with plug on Remote Base for Motor Hood Mount"
+      },
+      {
+        "c": "R",
+        "d": "Baldor Mini MS style with Plug"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "009",
+        "d": "Super Magnetic Shielded Sensors with 6000 PPR & 25mm bore"
+      },
+      {
+        "c": "901",
+        "d": "Special 1 ft. cable built into sensor"
+      },
+      {
+        "c": "000",
+        "d": ""
+      },
+      {
+        "c": "004",
+        "d": "Super Magnetic Shielded Sensors"
+      },
+      {
+        "c": "005",
+        "d": "Expand Top Speed to 6000 RPM (rotor & per-sensor)"
+      },
+      {
+        "c": "006",
+        "d": "Super Magnetic Shielded Sensors with Sealed Housing (Marine Apps)"
+      },
+      {
+        "c": "007",
+        "d": "Option 006 with A38162 Stator Housing O-Ring and Rear Cover Plate Sealing Kit"
+      },
+      {
+        "c": "011",
+        "d": "Super Magnetic Shielded Sensors with 6000 PPR & 5 ft. cable built into sensor"
+      },
+      {
+        "c": "029",
+        "d": "Super Magnetic Shielded Sensors with B35183 cable (MS to remote \"Q\" terminal block/base)"
+      },
+      {
+        "c": "404",
+        "d": "16 PPR (Special) Right Output (Set Right PPR Code to 0)"
+      },
+      {
+        "c": "405",
+        "d": "16 (Special) PPR (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "406",
+        "d": "6000 (Special) PPR (Set PPR Code(s) = 0)"
+      }
+    ],
+    "Left Output Line Driver": [
+      {
+        "c": "9",
+        "d": "5-24V In, 5V Out (7272)"
+      },
+      {
+        "c": "X",
+        "d": "No Left Output"
+      },
+      {
+        "c": "8",
+        "d": "5-24v in, 5-24v out hi-power standard (HX)"
+      },
+      {
+        "c": "6",
+        "d": "5-24v in, 5-24v out (7272) recommended for single-ended wiring (A,B,Z, no complements)"
+      },
+      {
+        "c": "A",
+        "d": "5-24v in, 5-24v out (7272) - High Performance"
+      },
+      {
+        "c": "B",
+        "d": "5-24v in, 5-24V out (Hx) - High Performance"
+      },
+      {
+        "c": "C",
+        "d": "5-24v in, 5v fixed out (7272) - High Performance"
+      }
+    ],
+    "Left Output PPR": [
+      {
+        "c": "0",
+        "d": "Special PPR"
+      },
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "B",
+        "d": "480 PPR"
+      },
+      {
+        "c": "Q",
+        "d": "500 PPR"
+      },
+      {
+        "c": "R",
+        "d": "512 PPR"
+      }
+    ],
+    "Right Output Line Driver": [
+      {
+        "c": "9",
+        "d": "5-24V In  5V Out (7272)"
+      },
+      {
+        "c": "X",
+        "d": "No Right Output"
+      },
+      {
+        "c": "8",
+        "d": "5-24v in, 5-24v out hi-power standard (HX)"
+      },
+      {
+        "c": "6",
+        "d": "5-24v in, 5-24v out (7272) recommended for single-ended wiring (no complements)"
+      },
+      {
+        "c": "A",
+        "d": "5-24v in, 5-24v out (7272) - High Performance"
+      },
+      {
+        "c": "B",
+        "d": "5-24v in, 5-24V out (Hx) - High Performance"
+      },
+      {
+        "c": "C",
+        "d": "5-24v in, 5v fixed out (7272) - High Performance"
+      }
+    ],
+    "Right Output PPR": [
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "B",
+        "d": "480 PPR"
+      },
+      {
+        "c": "Q",
+        "d": "500 PPR"
+      },
+      {
+        "c": "R",
+        "d": "512 PPR"
+      },
+      {
+        "c": "S",
+        "d": "600 PPR"
+      }
+    ]
+  },
+  "XR850": {
+    "Rotor Bore Size": [
+      {
+        "c": "C2",
+        "d": "2.875 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "UQ",
+        "d": "GE CD404E/444E/505E (2.25 in.) Motor Shaft Adapter & Universal 5/8 in. Rotor"
+      },
+      {
+        "c": "U2",
+        "d": "GE CD500 Motor Shaft Adapter & Universal 5/8 in. Rotor"
+      },
+      {
+        "c": "CB",
+        "d": "0.625 in. Thru-Shaft (Universal) Rotor"
+      },
+      {
+        "c": "CA",
+        "d": "0.750 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CC",
+        "d": "0.875 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CE",
+        "d": "1.000 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CF",
+        "d": "1.125 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CH",
+        "d": "1.375 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "C8",
+        "d": "1.500 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CJ",
+        "d": "1.625 in. Thru-Shaft Rotor"
+      },
+      {
+        "c": "CK",
+        "d": "1.750 in. Thru-Shaft Rotor"
+      }
+    ],
+    "Cover Plates": [
+      {
+        "c": "X",
+        "d": "No Cover Plates"
+      },
+      {
+        "c": "F",
+        "d": "Flat Outboard Cover"
+      },
+      {
+        "c": "B",
+        "d": "Both Inboard and Outboard Covers for Thru-Shaft"
+      },
+      {
+        "c": "N",
+        "d": "Inboard Seal Plate w/V-Ring Seal, Flat Outboard Cover"
+      },
+      {
+        "c": "T",
+        "d": "Outboard Seal Plate for Thru-Shaft"
+      }
+    ],
+    "Left Output Line Driver": [
+      {
+        "c": "7",
+        "d": "Level 2 Protection, (ATEX/IECEx Zone 2 & 22) 5-24v, 5-24V out"
+      },
+      {
+        "c": "F",
+        "d": "Level 1 Protection, (UL Class I, Div 1, UL/cUL Class I, Zone 0 Listed) 5-7v, 5V out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "X",
+        "d": "No Left Output"
+      },
+      {
+        "c": "H",
+        "d": "Level 1 Protection (ATEX/IECEx Zone 1 & 21), 5-7v in, 5v out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "G",
+        "d": "Level 2 Protection, (UL Class I, Div 2 Listed) 5-24v, 5-24V out"
+      },
+      {
+        "c": "R",
+        "d": "US CLASS I, DIV 2, ZONE 2, RECOGNIZED, 5-24v in, 5-24v out"
+      }
+    ],
+    "Left Output PPR": [
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "G",
+        "d": "100 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "B",
+        "d": "480 PPR"
+      },
+      {
+        "c": "Q",
+        "d": "500 PPR"
+      },
+      {
+        "c": "R",
+        "d": "512 PPR"
+      },
+      {
+        "c": "S",
+        "d": "600 PPR"
+      }
+    ],
+    "Right Output Line Driver": [
+      {
+        "c": "X",
+        "d": "No Right Output"
+      },
+      {
+        "c": "F",
+        "d": "Level 1 Protection, (UL Class I, Div 1, UL/cUL Class I, Zone 0 Listed) 5-7v, 5V out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "H",
+        "d": "Level 1 Protection (ATEX/IECEx Zone 1 & 21), 5-7v in, 5v out (NOTE Requires XRB3 Isolator)"
+      },
+      {
+        "c": "7",
+        "d": "Level 2 Protection, (ATEX/IECEx Zone 2 & 22) 5-24v, 5-24V out"
+      },
+      {
+        "c": "G",
+        "d": "Level 2 Protection, (UL Class I, Div 2 Listed) 5-24v, 5-24V out"
+      },
+      {
+        "c": "R",
+        "d": "US CLASS I, DIV 2, ZONE 2, RECOGNIZED, 5-24v in, 5-24v out"
+      }
+    ],
+    "Right Output PPR": [
+      {
+        "c": "F",
+        "d": "60 PPR"
+      },
+      {
+        "c": "C",
+        "d": "64 PPR"
+      },
+      {
+        "c": "H",
+        "d": "120 PPR"
+      },
+      {
+        "c": "A",
+        "d": "128 PPR"
+      },
+      {
+        "c": "L",
+        "d": "240 PPR"
+      },
+      {
+        "c": "N",
+        "d": "256 PPR"
+      },
+      {
+        "c": "P",
+        "d": "300 PPR"
+      },
+      {
+        "c": "E",
+        "d": "360 PPR"
+      },
+      {
+        "c": "B",
+        "d": "480 PPR"
+      },
+      {
+        "c": "Q",
+        "d": "500 PPR"
+      },
+      {
+        "c": "R",
+        "d": "512 PPR"
+      },
+      {
+        "c": "S",
+        "d": "600 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style w/o Mating Plug "
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style w/Plug"
+      },
+      {
+        "c": "G",
+        "d": "Industrial EPIC Style w/LED, Northstar Pin Out & Plug"
+      },
+      {
+        "c": "E",
+        "d": "7 pin MS style w/Plug (A Quad B Std. Phasing)"
+      },
+      {
+        "c": "P",
+        "d": "Industrial EPIC Style w/LED and remote alarm contact "
+      },
+      {
+        "c": "R",
+        "d": "Baldor 10 Pin Mini MS Twist Lock style w/Plug"
+      },
+      {
+        "c": "W",
+        "d": "36 in. Flexible Cable with Sealing Gland"
+      },
+      {
+        "c": "X",
+        "d": "No Connector - No Sensor"
+      },
+      {
+        "c": "4",
+        "d": "Std conduit box, 1/2\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      },
+      {
+        "c": "5",
+        "d": "Std conduit box, 3/4\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      },
+      {
+        "c": "F",
+        "d": "7 pin MS style w/Plug (A, /A Std. Phasing)"
+      },
+      {
+        "c": "6",
+        "d": "Std conduit box, 1\" NPT threads (ATEX/IECEx/UL/cUL rating)"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "704",
+        "d": "Add Super Magnetic Shielding.  Also Add Large Frame Motor Flange Adapter, Adds 8.5 in. FC Face to Motor"
+      },
+      {
+        "c": "000",
+        "d": ""
+      },
+      {
+        "c": "004",
+        "d": "Super Magnetic Shielded Sensor(s)"
+      },
+      {
+        "c": "401",
+        "d": "1270 (Special) Output PPR, (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "402",
+        "d": "150 (Special) Output PPR, (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "403",
+        "d": "50 (Special) Output PPR, No Right Output (Set PPR Codes =  0)"
+      },
+      {
+        "c": "404",
+        "d": "16 PPR (Special) Right Output (Set Right PPR Code Only = 0)"
+      },
+      {
+        "c": "405",
+        "d": "16 (Special) Output PPR (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "406",
+        "d": "6000 (Special) Output PPR (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "407",
+        "d": "2800 (Special) Output PPR (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "408",
+        "d": "1400 (Special) Output PPR (Set PPR Code(s) = 0)"
+      },
+      {
+        "c": "409",
+        "d": "30 (Special) Output PPR (Set PPR Code(s) = 0)"
+      }
+    ]
+  },
+  "HS45": {
+    "Hollow Shaft Bore Size": [
+      {
+        "c": "C",
+        "d": "5/8 in. bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "E",
+        "d": "7/8 in. bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "F",
+        "d": "1 in. bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "G",
+        "d": "1 1/8 in. bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "J",
+        "d": "30mm, center-bolt style mount, XT45 replacement, end of shaft "
+      },
+      {
+        "c": "L",
+        "d": "16mm center-bolt style mount: european end of shaft (Ceramic Bearings)"
+      },
+      {
+        "c": "M",
+        "d": "17mm tapered shaft, center-bolt mount, european end of shaft Ceramic Bearings)"
+      },
+      {
+        "c": "P",
+        "d": "20mm center-bolt style with keyway: Hubner FGH4K/FGH40K end of shaft fit"
+      },
+      {
+        "c": "S",
+        "d": "16mm bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "T",
+        "d": "18mm bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "V",
+        "d": "19mm bore, insulated shaft bushing, universal end or thru shaft mountable"
+      },
+      {
+        "c": "W",
+        "d": "20mm bore, insulated shaft bushing, universal end or thru shaft mountable"
+      }
+    ],
+    "Left Output PPR": [
+      {
+        "c": "BC",
+        "d": "50 PPR"
+      },
+      {
+        "c": "AK",
+        "d": "80 PPR"
+      },
+      {
+        "c": "AG",
+        "d": "100 PPR"
+      },
+      {
+        "c": "AH",
+        "d": "120 PPR"
+      },
+      {
+        "c": "AM",
+        "d": "200 PPR"
+      },
+      {
+        "c": "AL",
+        "d": "240 PPR"
+      },
+      {
+        "c": "AN",
+        "d": "256 PPR"
+      },
+      {
+        "c": "AP",
+        "d": "300 PPR"
+      },
+      {
+        "c": "AE",
+        "d": "360 PPR"
+      },
+      {
+        "c": "AC",
+        "d": "400 PPR"
+      },
+      {
+        "c": "AB",
+        "d": "480 PPR"
+      },
+      {
+        "c": "AQ",
+        "d": "500 PPR"
+      }
+    ],
+    "Right Output PPR": [
+      {
+        "c": "BC",
+        "d": "50 PPR"
+      },
+      {
+        "c": "AK",
+        "d": "80 PPR"
+      },
+      {
+        "c": "AG",
+        "d": "100 PPR"
+      },
+      {
+        "c": "AH",
+        "d": "120 PPR"
+      },
+      {
+        "c": "AM",
+        "d": "200 PPR"
+      },
+      {
+        "c": "AL",
+        "d": "240 PPR"
+      },
+      {
+        "c": "AN",
+        "d": "256 PPR"
+      },
+      {
+        "c": "AP",
+        "d": "300 PPR"
+      },
+      {
+        "c": "AE",
+        "d": "360 PPR"
+      },
+      {
+        "c": "AC",
+        "d": "400 PPR"
+      },
+      {
+        "c": "AQ",
+        "d": "500 PPR"
+      },
+      {
+        "c": "AJ",
+        "d": "960 PPR"
+      }
+    ],
+    "Line Driver": [
+      {
+        "c": "8",
+        "d": "5-24V in/5-24v Out Hi-Power (HX) w/wiring protection"
+      },
+      {
+        "c": "9",
+        "d": "5-28v In, 5v Out (7272 Line Driver)"
+      },
+      {
+        "c": "6",
+        "d": "5-24v in, 5-24v out (7272)"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 Pin MS style w/o Plug, Avtron/BEI Phasing"
+      },
+      {
+        "c": "B",
+        "d": "10 Pin MS style w/o Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "C",
+        "d": "10 Pin MS style w/Plug, Avtron/BEI Phasing"
+      },
+      {
+        "c": "D",
+        "d": "10 Pin MS style w/Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "G",
+        "d": "10 pin mini-EPIC Style w/Plug, Northstar Phasing"
+      },
+      {
+        "c": "E",
+        "d": "6 Pin MS style w/ Plug, Avtron Phasing"
+      },
+      {
+        "c": "F",
+        "d": "6 Pin MS style w/ Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "H",
+        "d": "Terminal Box for USA 1/2 in. conduit, LED & Remote Alarm Diagnostics"
+      },
+      {
+        "c": "K",
+        "d": "7 Pin MS style w/ Plug, Dynapar HS35 Phasing"
+      },
+      {
+        "c": "M",
+        "d": "7 Pin MS style w/o Plug on 4 ft cable w/HD cable sheath, Avtron/BEI HS35 Phasing"
+      },
+      {
+        "c": "R",
+        "d": "10 pin Mini-MS Twist-Lock (Baldor/Bayonet Style) w/plug, Avtron/BEI Phasing"
+      },
+      {
+        "c": "S",
+        "d": "10 pin Mini-MS Twist-Lock (Baldor/Bayonet Style) on 36 in. cable w/plug, Avtron/BEI Phasing"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Channels (A, A/, B, B/, Z, Z/)"
+      },
+      {
+        "c": "B",
+        "d": "Channels (A, A/, B, B/, No Marker)"
+      },
+      {
+        "c": "E",
+        "d": "Channels (A, B, Z, No Complements)"
+      },
+      {
+        "c": "F",
+        "d": "Channels (A, B, No Complements, No Marker)"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "004",
+        "d": "Super Magnetic Shielding"
+      },
+      {
+        "c": "012",
+        "d": "Black Paint & 5 ft. [1.5m] cable built in to sensor(s)"
+      },
+      {
+        "c": "013",
+        "d": "Black Paint"
+      },
+      {
+        "c": "022",
+        "d": "Rail Option Package w/stub shaft, coupling, spc'l conn, hose"
+      },
+      {
+        "c": "035",
+        "d": "Cabinet mounted Electronic Overspeed + Super Magnetic Shielding"
+      },
+      {
+        "c": "036",
+        "d": "Add Cabinet mounted Electronic Overspeed"
+      },
+      {
+        "c": "500",
+        "d": "Add 100C temperature range to shaft bores 5/8 in.-1 in. and 16mm-25mm (Not required for 16mm & 17mm center bolt and 1.188 in. and 30mm clamp styles)"
+      },
+      {
+        "c": "503",
+        "d": "Add 100C temperature range to shaft bores 5/8 in.-1 in. and 16mm-25mm; also add special cable length 1m/3ft"
+      },
+      {
+        "c": "504",
+        "d": "Add 100C temperature range to shaft bores 5/8 in.-1 in. and 16mm-25mm; also add super magnetic shielding"
+      },
+      {
+        "c": "901",
+        "d": "0.3m/1 ft. Special Cable Length"
+      },
+      {
+        "c": "902",
+        "d": "0.6m/2 ft. Special Cable Length"
+      },
+      {
+        "c": "903",
+        "d": "0.9m/3 ft. Special Cable Length"
+      }
+    ],
+    "Anti-Rotation Tether": [
+      {
+        "c": "X",
+        "d": "No Tether"
+      },
+      {
+        "c": "E",
+        "d": "4.5 in. / Reliance 6.75\" NEMA 56 C-Face Tether"
+      },
+      {
+        "c": "F",
+        "d": "8.5 in. NEMA C-Face Tether"
+      },
+      {
+        "c": "G",
+        "d": "Threaded Rod Torque Arm Kit, Adjustable 70-500mm (4.25 in.-19 in.) w/M6 x 30mm Screw"
+      },
+      {
+        "c": "H",
+        "d": "Fan Cooled Motor T-Bolt and 8.5 in. NEMA FC-Face Tethers (Options D&F)"
+      },
+      {
+        "c": "M",
+        "d": "Fan Cooled Motor T-Bolt and 4.5 in./Reliance 6.75 in. NEMA 56 C-Face Tethers (Options D&E)"
+      },
+      {
+        "c": "P",
+        "d": "Threaded Rod Torque Arm Kit, Fixed 70mm Length, w/M6 x 30mm Screw"
+      },
+      {
+        "c": "T",
+        "d": "Threaded Rod Torque Arm Kit, Adjustable 70-500mm and Fan Cooled Motor T-Bolt Tether Kit, w/M6 x 35mm T-Bolt"
+      },
+      {
+        "c": "U",
+        "d": "Universal Tether/Torque Arm Kit (includes all standard tethers)"
+      },
+      {
+        "c": "Y",
+        "d": "Dual Stacked HS45 - Outboard Encoder Short Torque Arm - Tethers Outboard Encoder to back of HS45 Inboard Encoder"
+      },
+      {
+        "c": "D",
+        "d": "Fan Cooled Motor T-Bolt Tether Kit, w/1/4 in., 5/16 in., and 3/8 in. Hardware"
+      },
+      {
+        "c": "2",
+        "d": "Hubner ADAPTER FLANGE 68 MM TAPERED PILOT"
+      }
+    ]
+  },
+  "HS4": {
+    "Hollow Shaft Bore Size": [
+      {
+        "c": "L",
+        "d": "6mm "
+      },
+      {
+        "c": "M",
+        "d": "8mm, Clamping Collar"
+      },
+      {
+        "c": "P",
+        "d": "12mm"
+      },
+      {
+        "c": "N",
+        "d": "10mm"
+      },
+      {
+        "c": "2",
+        "d": "11mm"
+      },
+      {
+        "c": "Q",
+        "d": "14mm "
+      },
+      {
+        "c": "R",
+        "d": "15mm"
+      },
+      {
+        "c": "Z",
+        "d": "All Metric Hollow Shaft Sizes 6-15mm"
+      },
+      {
+        "c": "A",
+        "d": "3/8\" (0.375 in.)"
+      },
+      {
+        "c": "B",
+        "d": "1/2\" (0.5 in.)"
+      },
+      {
+        "c": "C",
+        "d": "5/8\" (0.625 in.)"
+      },
+      {
+        "c": "D",
+        "d": "1/4\" (0.25 in.)"
+      }
+    ],
+    "Seals": [
+      {
+        "c": "A",
+        "d": "Shaft Seals, IP65, Aluminum Housing"
+      },
+      {
+        "c": "G",
+        "d": "Shaft Seals, IP67, Aluminum Housing"
+      }
+    ],
+    "Channels": [
+      {
+        "c": "A",
+        "d": "All Signals A, /A, B, /B, Z, /Z "
+      },
+      {
+        "c": "B",
+        "d": "A, /A ,B, /B, No Marker Pulse"
+      },
+      {
+        "c": "E",
+        "d": "A, B, Z No Complements"
+      },
+      {
+        "c": "F",
+        "d": "A, B No Complements, No Marker Pulse"
+      }
+    ],
+    "PPR": [
+      {
+        "c": "BA",
+        "d": "30 PPR"
+      },
+      {
+        "c": "AA",
+        "d": "32 PPR"
+      },
+      {
+        "c": "AK",
+        "d": "80 PPR"
+      },
+      {
+        "c": "BC",
+        "d": "100 PPR"
+      },
+      {
+        "c": "AM",
+        "d": "200 PPR"
+      },
+      {
+        "c": "AL",
+        "d": "240 PPR"
+      },
+      {
+        "c": "AN",
+        "d": "256 PPR"
+      },
+      {
+        "c": "AE",
+        "d": "360 PPR"
+      },
+      {
+        "c": "AR",
+        "d": "512 PPR"
+      },
+      {
+        "c": "AS",
+        "d": "600 PPR"
+      },
+      {
+        "c": "AP",
+        "d": "720 PPR"
+      },
+      {
+        "c": "AJ",
+        "d": "960 PPR"
+      }
+    ],
+    "Connector Options": [
+      {
+        "c": "A",
+        "d": "10 pin MS style No Plug, Avtron Phasing"
+      },
+      {
+        "c": "B",
+        "d": "10 pin MS style No Plug, Reverse Phasing"
+      },
+      {
+        "c": "D",
+        "d": "10 pin MS style with plug, Reverse Phasing"
+      },
+      {
+        "c": "F",
+        "d": "6 pin MS style No Plug, Reverse Phasing"
+      },
+      {
+        "c": "H",
+        "d": "6 pin MS style with Plug, Reverse Phasing"
+      },
+      {
+        "c": "C",
+        "d": "10 pin MS style with Plug, Avtron Phasing"
+      },
+      {
+        "c": "W",
+        "d": "Cable (1m or special length)"
+      },
+      {
+        "c": "E",
+        "d": "6 pin MS style No Plug, Avtron Phasing"
+      },
+      {
+        "c": "G",
+        "d": "6 pin MS style with Plug, Avtron Phasing"
+      },
+      {
+        "c": "J",
+        "d": "7 pin MS style No Plug, Avtron Phasing"
+      },
+      {
+        "c": "K",
+        "d": "7 pin MS style No Plug, Reverse Phasing"
+      },
+      {
+        "c": "M",
+        "d": "7 pin MS style with plug, Avtron Phasing"
+      }
+    ],
+    "Housing Size": [
+      {
+        "c": "3",
+        "d": "36mm OD with 18mm Hollow Shaft Depth"
+      },
+      {
+        "c": "5",
+        "d": "58mm OD with 28mm Hollow Shaft Depth"
+      },
+      {
+        "c": "4",
+        "d": "42mm OD with 22mm Hollow Shaft Depth"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "905",
+        "d": "5 ft./1.5m Cable Built into Encoder"
+      },
+      {
+        "c": "915",
+        "d": "15 ft./4.5m Cable Built into Encoder"
+      },
+      {
+        "c": "933",
+        "d": "33 ft./10m Cable Built into Encoder"
+      },
+      {
+        "c": "00W",
+        "d": "Connector on Cable, 1m"
+      },
+      {
+        "c": "910",
+        "d": "10 ft./3m Cable Built into Encoder"
+      },
+      {
+        "c": "M01",
+        "d": "Special OEM Modification"
+      },
+      {
+        "c": "M02",
+        "d": "Special OEM Modification"
+      }
+    ],
+    "Protective Basket": [
+      {
+        "c": "0",
+        "d": "No Basket"
+      },
+      {
+        "c": "1",
+        "d": "Protective Basket"
+      }
+    ],
+    "Tether": [
+      {
+        "c": "X",
+        "d": "No Tether"
+      },
+      {
+        "c": "A",
+        "d": "Dual Tab Tether, 1.65 in. BC, 0.14 in. slot, fits 36mm housings"
+      },
+      {
+        "c": "B",
+        "d": "Dual-Tab Tether; 2.48 in. BC, 0.14 in. slot, fits 58mm housing"
+      },
+      {
+        "c": "C",
+        "d": "Dual-Tab Tether; 1.65 in. - 2.48 in. BC, 0.14 in slot, 36mm & 42mm housings"
+      },
+      {
+        "c": "D",
+        "d": "Fan Cover Tether, 1.57 in.- to 2.95 in. BC, 0.45\" Slot, fits 58mm housing"
+      },
+      {
+        "c": "F",
+        "d": "Single Tab Tether, 2.48 in. BC, 0.14 in. slot, fits 36mm housings w/ set screw shaft bores"
+      },
+      {
+        "c": "E",
+        "d": "Extended Fan Cover Tether: 4.05\" [102.8mm] BC, 0.45\" [11.4mm] slot, fits 58mm housing"
+      }
+    ],
+    "Line Driver": [
+      {
+        "c": "6",
+        "d": "5-30V In/out Line Driver (7272)"
+      },
+      {
+        "c": "9",
+        "d": "5-30V In, 5v Out Regulated Line Driver (7272)"
+      },
+      {
+        "c": "2",
+        "d": "5-30V In/out Open Collector"
+      }
+    ]
+  },
+  "AV6M": {
+    "Communication Bus": [
+      {
+        "c": "C",
+        "d": "CANopen Communication"
+      },
+      {
+        "c": "J",
+        "d": "J1939 CAN Communication"
+      },
+      {
+        "c": "S",
+        "d": "SSI Communication"
+      },
+      {
+        "c": "A",
+        "d": "Analog Communication"
+      },
+      {
+        "c": "N",
+        "d": "Profinet IO Communication"
+      },
+      {
+        "c": "P",
+        "d": "Profibus DP Communication"
+      },
+      {
+        "c": "T",
+        "d": "EtherCAT Communication"
+      },
+      {
+        "c": "G",
+        "d": "RS485"
+      },
+      {
+        "c": "Q",
+        "d": "BiSS-C"
+      },
+      {
+        "c": "D",
+        "d": "DeviceNet"
+      }
+    ],
+    "Flange": [
+      {
+        "c": "6",
+        "d": "36.5mm HD Flange, 30mm Pilot, 4xM4@24mm bc"
+      },
+      {
+        "c": "4",
+        "d": "2.5 in. Square flange, 1.25 in. male pilot, 4x 7/32 untapped @ 2.06 in. side to side hole spacing."
+      },
+      {
+        "c": "1",
+        "d": "58mm Clamp Flange, 36mm Pilot, 3x M3 & 3x M4 at 48mm bc"
+      },
+      {
+        "c": "2",
+        "d": "58mm Synchro Flange, 50mm Pilot, 3x M4 at 42mm bc"
+      },
+      {
+        "c": "3",
+        "d": "36.5mm Mini-flange w/33mm Pilot, 4x M3 @26mm bc"
+      },
+      {
+        "c": "7",
+        "d": "42mm HD Stainless Flange/Pilot, 4xM4@35mm bc"
+      },
+      {
+        "c": "H",
+        "d": "Squared Synchro flange, ø 36 mm (no raised pilot); 4x M3 @ 30mm BC"
+      }
+    ],
+    "Shaft Size": [
+      {
+        "c": "R",
+        "d": "10 mm Solid Shaft, no flat"
+      },
+      {
+        "c": "T",
+        "d": "6 mm Solid Shaft, no flat"
+      },
+      {
+        "c": "B",
+        "d": "3/8 in. Solid Shaft w/flat"
+      },
+      {
+        "c": "C",
+        "d": "10 mm Solid Shaft w/flat"
+      },
+      {
+        "c": "S",
+        "d": "6 mm Solid Shaft, no flat; Special 11.5 mm length"
+      },
+      {
+        "c": "W",
+        "d": "6.20mm g7 Solid Shaft 14mm length, w/Special Single Flat 7.5mm @ 6mm from EOS"
+      }
+    ],
+    "Turns/bits/MT": [
+      {
+        "c": "X",
+        "d": "0 Turns/0 bits-Single Turn"
+      },
+      {
+        "c": "2",
+        "d": "4096 Turns/12 bits"
+      },
+      {
+        "c": "4",
+        "d": "16384 Turns/14 bits"
+      },
+      {
+        "c": "A",
+        "d": "16 Turns/4 bits- (Field-Scalable for Analog 0.03 to 65536 turns)"
+      },
+      {
+        "c": "3",
+        "d": "8192 Turns/13 bits"
+      },
+      {
+        "c": "5",
+        "d": "32768 Turns/15 bits"
+      },
+      {
+        "c": "6",
+        "d": "65536 Turns/16 bits"
+      },
+      {
+        "c": "8",
+        "d": "262144 Turns/18 bits"
+      }
+    ],
+    "CPR/bits Per Turn/ST": [
+      {
+        "c": "2",
+        "d": "4096 Counts per Revolution/12 bits"
+      },
+      {
+        "c": "3",
+        "d": "8192 Counts per Revolution/13 bits"
+      },
+      {
+        "c": "6",
+        "d": "65536 Counts per Revolution/16 bits"
+      },
+      {
+        "c": "8",
+        "d": "262144 Counts per Revolution/18 bits"
+      },
+      {
+        "c": "4",
+        "d": "16384 Counts per Revolution/14 bits"
+      },
+      {
+        "c": "5",
+        "d": "32768 Counts per Revolution/15 bits"
+      },
+      {
+        "c": "1",
+        "d": "2048 Counts per Revolution/11 bits"
+      },
+      {
+        "c": "0",
+        "d": "1024 Counts per Revolution/10 bits"
+      },
+      {
+        "c": "F",
+        "d": "512 Counts per Revolution/9 bits"
+      },
+      {
+        "c": "E",
+        "d": "256 Counts per Revolution/8 bits"
+      },
+      {
+        "c": "7",
+        "d": "131072 Counts per Revolution/17 bits"
+      }
+    ],
+    "Connector": [
+      {
+        "c": "A",
+        "d": "1x M12/5 pin w/o Plug"
+      },
+      {
+        "c": "W",
+        "d": "Cable, 1m (or special length)"
+      },
+      {
+        "c": "C",
+        "d": "3x M12 (4/4/4) pin w/o Plugs"
+      },
+      {
+        "c": "F",
+        "d": "M23/12 pin w/o Plug"
+      },
+      {
+        "c": "E",
+        "d": "1x M12/8 Pin w/o Plug"
+      },
+      {
+        "c": "J",
+        "d": "2x Cable Entry"
+      },
+      {
+        "c": "K",
+        "d": "3x Cable Entry"
+      },
+      {
+        "c": "T",
+        "d": "JST-GH (PCBA style) w/o plug"
+      }
+    ],
+    "Connector Exit": [
+      {
+        "c": "E",
+        "d": "End/Axial exit"
+      },
+      {
+        "c": "A",
+        "d": "Side/Radial exit"
+      }
+    ],
+    "Output Coding": [
+      {
+        "c": "1",
+        "d": "Binary Bit Coding"
+      },
+      {
+        "c": "2",
+        "d": "Gray Coding"
+      },
+      {
+        "c": "3",
+        "d": "0-5V Analog"
+      },
+      {
+        "c": "4",
+        "d": "0-10V Analog"
+      },
+      {
+        "c": "5",
+        "d": "4-20mA Analog"
+      },
+      {
+        "c": "6",
+        "d": "0-20mA Analog"
+      }
+    ],
+    "IP Rating": [
+      {
+        "c": "K",
+        "d": "IP69K Seals, stainless housing"
+      },
+      {
+        "c": "X",
+        "d": "No Seals, IP54 (not recommended), aluminum housing"
+      },
+      {
+        "c": "A",
+        "d": "IP65 Shaft Seals, aluminum housing"
+      }
+    ],
+    "Modifications": [
+      {
+        "c": "901",
+        "d": "1 ft. 0.3m Cable Built into Encoder"
+      },
+      {
+        "c": "000",
+        "d": "No Special Features"
+      },
+      {
+        "c": "902",
+        "d": "2 ft. 0.6m Cable Built into Encoder"
+      },
+      {
+        "c": "903",
+        "d": "3 ft. 0.9m Cable Built into Encoder"
+      },
+      {
+        "c": "905",
+        "d": "5 ft. 1.5m Cable Built into Encoder"
+      },
+      {
+        "c": "910",
+        "d": "10 ft. 3m Cable Built into Encoder"
+      },
+      {
+        "c": "915",
+        "d": "15 ft. 4.5m Cable Built into Encoder"
+      },
+      {
+        "c": "920",
+        "d": "20 ft. 6m Cable Built into Encoder"
+      },
+      {
+        "c": "925",
+        "d": "25 ft. 7.5m Cable Built into Encoder"
+      },
+      {
+        "c": "930",
+        "d": "30 ft. 9m Cable Built into Encoder"
+      },
+      {
+        "c": "933",
+        "d": "33 ft. 10m Cable Built into Encoder"
+      },
+      {
+        "c": "001",
+        "d": "Push Button Set Points"
+      }
+    ]
+  }
+}
