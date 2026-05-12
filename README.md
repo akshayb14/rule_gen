@@ -21,6 +21,8 @@ The AI Rule Configurator lets two roles collaborate on encoder product rules —
 - **AI insights** — surfaces overlapping rules, gaps, obsolete entries, and simplification opportunities
 - **Library views** — browse drafts, conflicts, and sync history per product family
 
+> 💡 **New to the tool?** Once signed in, visit the **How to use** section (accessible from the left sidebar) for a full walkthrough of each capability available in the solution.
+
 ## Product Families
 
 Covers 10 encoder families: `AV4`, `AV6A`, `AV6M`, `AV850`, `HS4`, `HS45`, `XR850`, `AV125`, `XR650`, `XR485`
