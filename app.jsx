@@ -77,9 +77,7 @@ function Topbar({ screen, state, setState }) {
 }
 
 function App() {
-  const [user, setUser] = useSA(() => {
-    try { return JSON.parse(localStorage.getItem('nidec_user') || 'null'); } catch(e) { return null; }
-  });
+  const [user, setUser] = useSA(null);
   const [screen, setScreen] = useSA('dashboard');
   const [state, setState] = useSA({
     family: MOCK.FAMILIES[0],
@@ -120,12 +118,6 @@ function App() {
     window.scrollTo(0, 0);
   };
 
-  useEA(() => {
-    try {
-      const s = localStorage.getItem('nidec_screen');
-      if (s) setScreen(s);
-    } catch(e) {}
-  }, []);
 
   const screens = {
     dashboard: <Dashboard state={state} setState={setState} goto={goto} toast={toast} />,
