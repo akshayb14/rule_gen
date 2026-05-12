@@ -17,7 +17,7 @@ function Validate({ state, setState, goto, toast }) {
     if (!resolved) return toast({ msg: 'Resolve the contradiction with R-087 first', kind: 'warn', icon: '!' });
     setState(s => ({ ...s, pendingRule: { ...pendingRule, reviewer, note, emailNotify } }));
     if (emailNotify) toast({ msg: `Email sent to ${reviewer}`, kind: 'success', icon: '✉' });
-    goto('review');
+    goto('reviewDetail');
   };
 
   return (

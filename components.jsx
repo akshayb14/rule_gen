@@ -118,13 +118,13 @@ function Stepper({ current, steps }) {
   return (
     <div className="stepper">
       {steps.map((s, i) => (
-        <Fragment key={i}>
+        <div key={i} className="st-group">
           <div className={`st ${i < current ? 'done' : i === current ? 'cur' : ''}`}>
             <span className="dot">{i < current ? '✓' : i + 1}</span>
             <span className="lbl">{s}</span>
           </div>
           {i < steps.length - 1 && <span className="line"></span>}
-        </Fragment>
+        </div>
       ))}
     </div>
   );

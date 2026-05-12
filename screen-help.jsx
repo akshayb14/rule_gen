@@ -185,23 +185,44 @@ function HowToUse({ goto, state }) {
           {active === 'sync' && (
             <div className="card"><div className="card-body">
               <div className="tiny">05 · Sync & undo</div>
-              <h2 style={{ margin: '6px 0 8px', fontSize: 22 }}>Production sync in under 5 seconds</h2>
+              <h2 style={{ margin: '6px 0 8px', fontSize: 22 }}>Production sync process</h2>
               <p className="mut2">Approval triggers the existing NIDEC sync pipeline — no new infrastructure:</p>
 
-              <div className="col" style={{ gap: 4, marginTop: 10, background: 'var(--grey-1)', border: '1px solid var(--line)', borderRadius: 8, padding: 14 }}>
+              <div className="sync-flow" style={{ marginTop: 12 }}>
                 {[
-                  ['AI writes the rule to FileMaker', 'T+0.0s'],
-                  ['Laravel /sync API fires', 'T+0.2s'],
-                  ['MySQL stored procedure applied', 'T+0.3s'],
-                  ['CDN cache invalidated', 'T+0.4s'],
-                  ['Live on nidec-avtronencoders.com', 'T+0.5s'],
-                ].map(([m, t], i) => (
-                  <div key={i} className="row small" style={{ justifyContent: 'space-between' }}>
-                    <div><span style={{ display: 'inline-block', width: 18, color: 'var(--green)' }}>→</span>{m}</div>
-                    <span className="xs mut mono">{t}</span>
-                  </div>
+                  { n: 1, label: 'AI writes rule', sub: 'FileMaker', icon: '✎' },
+                  { n: 2, label: 'Sync API fires', sub: 'Laravel /sync', icon: '↯' },
+                  { n: 3, label: 'Stored procedure', sub: 'MySQL', icon: '⚙' },
+                  { n: 4, label: 'Cache invalidated', sub: 'CDN edge', icon: '⟳' },
+                  { n: 5, label: 'Live to public', sub: 'nidec-avtronencoders.com', icon: '✓' },
+                ].map((s, i, arr) => (
+                  <React.Fragment key={s.n}>
+                    <div className="sync-node">
+                      <div className="sync-bubble"><span className="sync-icon">{s.icon}</span></div>
+                      <div className="sync-step-num">Step {s.n}</div>
+                      <div className="sync-step-label">{s.label}</div>
+                      <div className="sync-step-sub xs mut">{s.sub}</div>
+                    </div>
+                    {i < arr.length - 1 && <div className="sync-connector" />}
+                  </React.Fragment>
                 ))}
               </div>
+
+              <style>{`
+                .sync-flow{ display:flex; align-items:flex-start; justify-content:space-between; gap:8px;
+                  background: var(--grey-1); border:1px solid var(--line); border-radius:12px; padding:18px 14px; }
+                .sync-node{ flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; text-align:center; gap:6px; }
+                .sync-bubble{ width:44px; height:44px; border-radius:50%; background:#fff; border:1.5px solid var(--green);
+                  display:flex; align-items:center; justify-content:center; box-shadow:0 1px 0 rgba(0,0,0,0.04); }
+                .sync-icon{ color:var(--green); font-size:18px; font-weight:600; line-height:1; }
+                .sync-step-num{ font-size:10px; letter-spacing:.08em; color:var(--ink-2); text-transform:uppercase; margin-top:2px; }
+                .sync-step-label{ font-size:13px; font-weight:600; color:var(--ink-1); line-height:1.25; }
+                .sync-step-sub{ line-height:1.25; }
+                .sync-connector{ flex:0 0 auto; height:1.5px; background:var(--green); align-self:center;
+                  margin-top:21px; width:32px; position:relative; opacity:.55; }
+                .sync-connector::after{ content:''; position:absolute; right:-1px; top:-3px;
+                  border:4px solid transparent; border-left-color:var(--green); }
+              `}</style>
 
               <div className="tiny" style={{ margin: '16px 0 6px' }}>Undoing a sync</div>
               <p className="small mut2">Every sync is reversible with <b>Undo last sync</b> on the dashboard. Only the most recent sync is restorable — for older changes, create a new rule or roll back manually in admin.</p>
