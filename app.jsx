@@ -76,6 +76,9 @@ function Topbar({ screen, state, setState }) {
   );
 }
 
+// Clear any stale session data so every fresh load starts at login
+try { localStorage.removeItem('nidec_user'); localStorage.removeItem('nidec_screen'); } catch(e) {}
+
 function App() {
   const [user, setUser] = useSA(null);
   const [screen, setScreen] = useSA('dashboard');
